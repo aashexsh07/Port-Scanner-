@@ -6,4 +6,4 @@ Please note that scanning ports on systems you do not own or do not have explici
 Developed a port scanner tool using Python to identify open ports on target systems. This tool is designed to assist in network security assessments by providing detailed insights into potential entry points for attackers.
 
 > python3 portSkanner.py
-> Enter target (I.P)
+
